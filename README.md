@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm Zhakhangir 👋</h1>
 <h3 align="center">A Computer Engineering Student passionate about AI Alignment.</h3>
-[Download My Resume](https://github.com/dzokha-true/dzokha-true/blob/main/Zhakhangir%20Mamayev%20Resume.pdf)
+<a href="https://github.com/dzokha-true/dzokha-true/blob/main/Zhakhangir%20Mamayev%20Resume.pdf">
+  <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=googledocs&logoColor=white" alt="Download Resume"/>
+</a>
 
 ---
 
